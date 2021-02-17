@@ -1,3 +1,3 @@
 # jaqilearning
 
-This is my daily learning musings 
+This is my daily musings on learning Data Science 
